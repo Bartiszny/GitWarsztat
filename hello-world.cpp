@@ -2,6 +2,8 @@
 
 int main() {
 
-	std::cout << "Hello Git!" << std::endl;
+	for (short i{0}; i < 5; ++i) {
+		std::cout << "Hello Git!" << std::endl;
+	}
 	return 0;
 }
