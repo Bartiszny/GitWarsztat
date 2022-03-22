@@ -1,3 +1,5 @@
 Jestem nowym featurem! ;)
 
 Jeszcze nowszy feature!
+
+Feature dla 2-iej grupy
